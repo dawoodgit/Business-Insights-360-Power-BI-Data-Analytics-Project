@@ -49,4 +49,6 @@ Feel free to access the interactive Power BI report dashboard using the provided
 I am passionate about data analytics and harnessing the power of visualization to drive data-driven decisions. Completing the Power BI course has expanded my skillset, enabling me to provide valuable insights and make a meaningful impact.
 
 If you have any feedback, suggestions, or would like to connect to discuss data analytics or Power BI further, please feel free to reach out!
-LinkedIn: https://www.linkedin.com/in/dawood-ahamad-055bba180/
+LinkedIn: https://www.linkedin.com/feed/update/urn:li:activity:7092728800244899840/
+
+https://www.linkedin.com/in/dawood-ahamad-055bba180/
